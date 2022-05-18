@@ -9,11 +9,17 @@
 
   <ItemGroup>
     <Compile Remove="Pages\Index.cshtml.cs" />
+    <Compile Remove="Shared\TodoItem.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Remove="Pages\Index.cshtml" />
     <Content Remove="Shared\Component.razor" />
+    <Content Remove="Shared\Todo.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="TodoItem.cs" />
   </ItemGroup>
 
 </Project>

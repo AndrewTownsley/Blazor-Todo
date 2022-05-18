@@ -39,8 +39,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRleHRJbnB1dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/OneDrive/BlazorApps/blazor-tut/blazor-tut/Shared/Todo.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvZG8ucmF6b3I=
+[C:/Users/acer/OneDrive/BlazorApps/blazor-tut/blazor-tut/Shared/TodoApp.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvZG9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/acer/OneDrive/BlazorApps/blazor-tut/blazor-tut/_Imports.razor]
